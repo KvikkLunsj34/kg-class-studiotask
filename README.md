@@ -3,7 +3,8 @@
 An interactive 3D globe for seeing, at a glance, **where it's night and where it's day right now** — and what the local time and weather are anywhere you click.
 
 Everything lives in a single file: [`index.html`](index.html). No build step, no server.
-LIVE Demo: [DEMO](https://compiledex.github.io/kg-class-studiotask/)
+
+LIVE Demo: [DEMO](https://compiledex.github.io/kg-studiotask-interactiveglobe/)
 
 ## Run it
 
